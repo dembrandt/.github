@@ -1,6 +1,6 @@
 ![Banner](dembrandt-og.png)
 
-#### *_Bridging the business, designers and developers._*
+### *_Removing hesitation of what customer wants for design._*
 
 ---
 
