@@ -1,17 +1,39 @@
 ![Banner](dembrandt-og.png)
 
-## Tools: 
+### *_Removing hesitation of what customer wants for design._*
 
-**Dembrandt** - [Extract any website’s design system into design tokens in a few seconds: logo, colors, typography, borders, and more. One command.](https://github.com/dembrandt/dembrandt)
+---
+
+## What
+
+Tools to bridge the gap between designers, developers, and business needs.
+
+**[Dembrandt](https://github.com/dembrandt/dembrandt)** - Extract any website's design system into design tokens in seconds: logo, colors, typography, borders, and more. One command.
+
+```bash
+npx dembrandt bmw.de
+```
 
 **Other repos** - Wait for it.
 
 ---
 
-## How it all started?
+## Why
 
-Over my 15 year design career, I've spent countless hours manually inspecting websites with DevTools and related customer tools: 1-3 hours per brand plus the additional sites to benchmark, and sometimes there is no one from the customer to toss around these ideas of meaningful digital experiences.
+Missing brand guides and design documentation create friction. Designers spend 1-3 hours manually inspecting sites with DevTools. Developers struggle when designs lack proper values. Business needs clash with unclear customer expectations.
 
-Designers have been and will still struggle to dissect brands from websites, and it’s not just about extracting colors: that’s the easy part. The real challenge is understanding what truly matters in a brand system. Developers also feel the pain when designs lack proper color values etc.
+We're building tools that remove manual work and hesitation from the designer-developer-business workflow.
 
-Dembrandt is my attempt to help designer-dev-business-customer workflow. Dembrandt is not by no means perfect, but it works enough. It saves me hours every week — and maybe it can do the same for you. Just dissect the brand with 1 command and use the design tokens in your preferred design systems.
+---
+
+## How
+
+Open source, automation-first approach. Our tools analyze live sites, extract real usage patterns, and output standardized tokens you can use in any design system.
+
+**Get started:**
+```bash
+npm install -g dembrandt
+dembrandt bmw.de
+```
+
+**Requires Node.js 18+**
