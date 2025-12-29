@@ -1,6 +1,6 @@
 ![Banner](dembrandt-og.png)
 
-### Extract Design Systems In Seconds ✨
+### Extract Design Systems In Seconds
 
 One command extracts any site's full design system instantly. Perfect for audits, competitor research, and documentation.
 
@@ -14,7 +14,7 @@ Extract any website's design system into design tokens: logo, colors, typography
 npx dembrandt stripe.com
 ```
 
-✨ **NEW** - W3C Design Tokens (DTCG) format export with `--dtcg`
+**NEW** - W3C Design Tokens (DTCG) format export with `--dtcg`
 
 ---
 
