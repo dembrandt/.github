@@ -6,8 +6,6 @@
 npx dembrandt stripe.com
 ```
 
-&nbsp;
-
 ### [Dembrandt CLI](https://github.com/dembrandt/dembrandt)
 Extract colors, typography, spacing, shadows, and logos from any website. Outputs structured W3C design tokens you can import into Figma, Tailwind, or any design system.
 
