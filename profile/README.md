@@ -2,31 +2,21 @@
 
 **Extract Design Systems In Seconds**
 
-One command extracts any website's full design system instantly. Perfect for design audits, competitor research, and building consistent design tokens.
-
----
-
-## Projects
-
-### [Dembrandt CLI](https://github.com/dembrandt/dembrandt)
-Extract colors, typography, spacing, borders, shadows, logos, and more into structured design tokens.
-
 ```bash
 npx dembrandt stripe.com
 ```
 
-**NEW:** W3C Design Tokens (DTCG) format export with `--dtcg`
+&nbsp;
 
-```bash
-npm install -g dembrandt
-dembrandt bmw.de --save-output --dtcg
-```
+### [Dembrandt CLI](https://github.com/dembrandt/dembrandt)
+Extract colors, typography, spacing, shadows, and logos from any website. Outputs structured W3C design tokens you can import into Figma, Tailwind, or any design system.
+
+[![npm downloads](https://img.shields.io/npm/dm/dembrandt)](https://www.npmjs.com/package/dembrandt) [![GitHub stars](https://img.shields.io/github/stars/dembrandt/dembrandt)](https://github.com/dembrandt/dembrandt) [![X](https://img.shields.io/twitter/follow/dembrandtcom)](https://x.com/dembrandtcom)
 
 ### [DTCG Validator](https://github.com/dembrandt/dtcg-validator)
-Web-based real-time validator for W3C Design Tokens Community Group format (DTCG). Supports all 13 token types, aliases/references, and circular reference detection.
+Real-time validator for W3C Design Tokens Community Group format. Supports all 13 token types, aliases, and circular reference detection.
 
-[**Try it live →**](https://dembrandt.github.io/dtcg-validator/)
+[![GitHub stars](https://img.shields.io/github/stars/dembrandt/dtcg-validator)](https://github.com/dembrandt/dtcg-validator)
 
----
-
-**Follow:** [@dembrandtcom](https://x.com/dembrandtcom) on X
+### Next Up
+Stay tuned — [@dembrandtcom](https://x.com/dembrandtcom)
