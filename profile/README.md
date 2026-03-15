@@ -1,13 +1,13 @@
 ![Banner](dembrandt-og.png)
 
-**Extract Design Systems In Seconds**
+Reverse-engineer any website's design tokens — colors, typography, spacing, and more — without digging through DevTools. Already trusted by 1,500+ developers.
 
 ```bash
 npx dembrandt stripe.com
 ```
 
 ### [Dembrandt CLI](https://github.com/dembrandt/dembrandt)
-Extract colors, typography, spacing, shadows, and logos from any website. Outputs structured W3C design tokens you can import into Figma, Tailwind, or any design system.
+Extract colors, typography, spacing, shadows, and logos from any website. Outputs W3C design tokens you can import into Figma, Tailwind, or any design system.
 
 [![npm downloads](https://img.shields.io/npm/dm/dembrandt)](https://www.npmjs.com/package/dembrandt) [![GitHub stars](https://img.shields.io/github/stars/dembrandt/dembrandt)](https://github.com/dembrandt/dembrandt) [![X](https://img.shields.io/twitter/follow/dembrandtcom)](https://x.com/dembrandtcom)
 
