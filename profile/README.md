@@ -16,3 +16,6 @@ Real-time validator for W3C Design Tokens Community Group format. Supports all 1
 
 [![GitHub stars](https://img.shields.io/github/stars/dembrandt/dtcg-validator)](https://github.com/dembrandt/dtcg-validator)
 
+---
+
+[dembrandt.com](https://dembrandt.com) · [LinkedIn](https://www.linkedin.com/company/10303168/) · [X](https://x.com/dembrandtcom)
