@@ -1,6 +1,6 @@
 ![Banner](dembrandt-og.png)
 
-Reverse-engineer any website's design tokens — colors, typography, spacing, and more — without digging through DevTools. Already trusted by 1,500+ developers.
+Generate design tokens from any website instantly. Free and open source, trusted by 1,500+ developers.
 
 ```bash
 npx dembrandt stripe.com
@@ -17,4 +17,4 @@ Real-time validator for W3C Design Tokens Community Group format. Supports all 1
 [![GitHub stars](https://img.shields.io/github/stars/dembrandt/dtcg-validator)](https://github.com/dembrandt/dtcg-validator)
 
 ### Next Up
-Stay tuned — [@dembrandtcom](https://x.com/dembrandtcom)
+Stay tuned [@dembrandtcom](https://x.com/dembrandtcom)
