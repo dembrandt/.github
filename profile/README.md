@@ -7,7 +7,7 @@ npx dembrandt stripe.com
 ```
 
 ### [Dembrandt](https://github.com/dembrandt/dembrandt)
-Extract colors, typography, spacing, shadows, and logos. Outputs W3C design tokens for Figma, Tailwind, or any design system.
+Extract colors, typography, spacing, shadows, and logos. Outputs W3C design tokens for Figma, Tailwind, PDF, or any design system.
 
 [![npm downloads](https://img.shields.io/npm/dm/dembrandt)](https://www.npmjs.com/package/dembrandt) [![GitHub stars](https://img.shields.io/github/stars/dembrandt/dembrandt)](https://github.com/dembrandt/dembrandt) [![X](https://img.shields.io/twitter/follow/dembrandtcom)](https://x.com/dembrandtcom)
 
