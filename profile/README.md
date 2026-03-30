@@ -15,6 +15,7 @@ Extract colors, typography, spacing, shadows, and logos. Outputs W3C design toke
 
 ### [DTCG Validator](https://github.com/dembrandt/dtcg-validator)
 Real-time validator for W3C Design Tokens Community Group format. Supports all 13 token types, aliases, and circular reference detection.
+
 [![GitHub stars](https://img.shields.io/github/stars/dembrandt/dtcg-validator)](https://github.com/dembrandt/dtcg-validator)
 
 ### [Awesome-Sole-Creator](https://github.com/dembrandt/awesome-sole-creator)
