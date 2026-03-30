@@ -3,7 +3,9 @@
 Generate design tokens from any website instantly. Free and open source, trusted by 1,500+ developers.
 
 ```bash
-npx dembrandt stripe.com
+npm install -g dembrandt@latest
+
+dembrandt bmw.de
 ```
 
 ### [Dembrandt](https://github.com/dembrandt/dembrandt)
