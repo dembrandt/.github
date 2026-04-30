@@ -16,6 +16,8 @@ Extract colors, typography, spacing, shadows, and logos. Outputs W3C design toke
 ### [Dembrandt-Skills](https://github.com/dembrandt/dembrandt-skills)
 The Senior UX Skills for AI Agents. Injects 20+ years of opinionated expertise into your workflow. Covers hierarchy, typography, WCAG 2.2 accessibility, and Web Vitals to ensure agents generate quality by default.
 
+[![GitHub stars](https://img.shields.io/github/stars/dembrandt/dembrandt-skills)](https://github.com/dembrandt/dembrandt-skills)
+
 ### [DTCG Validator](https://github.com/dembrandt/dtcg-validator)
 Real-time validator for W3C Design Tokens Community Group format. Supports all 13 token types, aliases, and circular reference detection.
 
