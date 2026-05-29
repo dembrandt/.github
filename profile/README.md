@@ -1,6 +1,6 @@
 ![Banner](01-main-banner.png)
 
-Generate design tokens from any website instantly. Free and open source, trusted by 1,500+ developers.
+Generate design tokens from any website instantly. Free and open source, trusted by 1,900 developers.
 
 ```bash
 npm install -g dembrandt@latest
