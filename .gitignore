@@ -29,6 +29,9 @@ build/
 out/
 *.log
 
+# Claude Code
+.claude/settings.local.json
+
 # Environment Variables
 .env
 .env.local
