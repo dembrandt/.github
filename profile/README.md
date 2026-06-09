@@ -29,6 +29,11 @@ Real-time validator for W3C Design Tokens Community Group format. Supports all 1
 ### [Awesome-Sole-Creator](https://github.com/dembrandt/awesome-sole-creator)
 25 years in design, dev, branding and marketing. Tools that actually work. Mac and CLI focused.
 
+### Support Our Work 💖
+Maintained by [@dembrandt](https://github.com/dembrandt). If you or your company rely on these tools, consider supporting development via [GitHub Sponsors](https://github.com/sponsors/dembrandt).
+
+[![Sponsor](https://img.shields.io/github/sponsors/dembrandt)](https://github.com/sponsors/dembrandt)
+
 ---
 
 [dembrandt.com](https://dembrandt.com) · [LinkedIn](https://www.linkedin.com/company/10303168/) · [X](https://x.com/dembrandtcom)
