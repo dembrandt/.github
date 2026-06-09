@@ -32,7 +32,7 @@ Real-time validator for W3C Design Tokens Community Group format. Supports all 1
 ### Support Our Work 💖
 Maintained by [@dembrandt](https://github.com/dembrandt). If you or your company rely on these tools, consider supporting development via [GitHub Sponsors](https://github.com/sponsors/dembrandt).
 
-[![Sponsor](https://img.shields.io/github/sponsors/dembrandt)](https://github.com/sponsors/dembrandt)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/dembrandt)
 
 ---
 
