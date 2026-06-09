@@ -30,6 +30,9 @@ Real-time validator for W3C Design Tokens Community Group format. Supports all 1
 25 years in design, dev, branding and marketing. Tools that actually work. Mac and CLI focused.
 
 ### Support Our Work 💖
+
+[![Be the change — Sponsor Dembrandt](premier-partnership-for-github-sponsors-raw-link.png)](https://github.com/sponsors/dembrandt)
+
 Maintained by [@dembrandt](https://github.com/dembrandt). If you or your company rely on these tools, consider supporting development via [GitHub Sponsors](https://github.com/sponsors/dembrandt).
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/dembrandt)
