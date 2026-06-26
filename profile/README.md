@@ -14,7 +14,7 @@ Extract colors, typography, spacing, shadows, and logos. Outputs W3C design toke
 [![npm downloads](https://img.shields.io/npm/dm/dembrandt)](https://www.npmjs.com/package/dembrandt) [![GitHub stars](https://img.shields.io/github/stars/dembrandt/dembrandt)](https://github.com/dembrandt/dembrandt) [![X](https://img.shields.io/twitter/follow/dembrandtcom)](https://x.com/dembrandtcom)
 
 ### [Dembrandt App](https://www.dembrandt.com/app)
-Public Beta. Manage and analyze your extractions without the terminal. Track token drift with Drift, compare snapshots, check accessibility, and organize your brand audits. Desktop-first — no login, no tracking, all local.
+Public Beta. Track token drift, compare snapshots, and catch design regressions before they ship. Pin a baseline, run an extraction after each release, and get a visual diff of what changed. Sign in with GitHub to enable cloud sync: pass `--key` to the CLI and every deploy records a snapshot automatically.
 
 ### [Dembrandt-Skills](https://github.com/dembrandt/dembrandt-skills)
 The Senior UX Skills for AI Agents. Injects 20+ years of opinionated expertise into your workflow. Covers hierarchy, typography, WCAG 2.2 accessibility, and Web Vitals to ensure agents generate quality by default.
