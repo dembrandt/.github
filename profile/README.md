@@ -39,4 +39,4 @@ Maintained by [@dembrandt](https://github.com/dembrandt). If you or your company
 
 ---
 
-[dembrandt.com](https://dembrandt.com) · [LinkedIn](https://www.linkedin.com/company/10303168/) · [X](https://x.com/dembrandtcom)
+[dembrandt.com](https://dembrandt.com) · [LinkedIn](https://www.linkedin.com/company/10303168/) · [X](https://x.com/dembrandtcom) · [YouTube](https://www.youtube.com/@dembrandtcom)
